@@ -4,7 +4,9 @@
   "description": "> Expense Tracker is a simple  expense tracking application. Allows you to monitor your spending pattern.",
   "main": "user-login.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
   },
   "repository": {
     "type": "git",
