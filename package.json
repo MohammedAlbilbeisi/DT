@@ -1,0 +1,22 @@
+{
+  "name": "dt",
+  "version": "1.0.0",
+  "description": "> Expense Tracker is a simple  expense tracking application. Allows you to monitor your spending pattern.",
+  "main": "user-login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedAlbilbeisi/DT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedAlbilbeisi/DT/issues"
+  },
+  "homepage": "https://github.com/MohammedAlbilbeisi/DT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
